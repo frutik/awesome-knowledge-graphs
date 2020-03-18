@@ -17,6 +17,9 @@
 * [Interest Taxonomy: A knowledge graph management system for content understanding at Pinterest](https://medium.com/@Pinterest_Engineering/interest-taxonomy-a-knowledge-graph-management-system-for-content-understanding-at-pinterest-a6ae75c203fd)
 * [Running JanusGraph with Cloud Bigtable](https://cloud.google.com/solutions/running-janusgraph-with-bigtable)
 * [Knowledge Graph Queries Using Stardog](https://towardsdatascience.com/knowledge-graph-queries-using-stardog-ba882f84ceea)
+* [Bring Order to Chaos: A Graph-Based Journey from Textual Data to Wisdom](https://neo4j.com/blog/bring-order-to-chaos-graph-based-journey-textual-data-to-wisdom/)
+* [Where Ontologies End and Knowledge Graphs Begin](https://medium.com/predict/where-ontologies-end-and-knowledge-graphs-begin-6fe0cdede1ed)
+
 
 ## Tools
 
