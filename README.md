@@ -14,12 +14,19 @@
 * [Knowledge Graph App in 15min](https://medium.com/swlh/knowledge-graph-app-in-15min-c76b94bb53b3)
 * [Named Entity Disambiguation Boosted with Knowledge Graphs](https://towardsdatascience.com/named-entity-disambiguation-boosted-with-knowledge-graphs-4a93a94381ef)
 * [Knowledge Graph — A Powerful Data Science Technique to Mine Information from Text (with Python code)](https://medium.com/analytics-vidhya/knowledge-graph-a-powerful-data-science-technique-to-mine-information-from-text-with-python-f8bfd217accc)
-* [Interest Taxonomy: A knowledge graph management system for content understanding at Pinterest](https://medium.com/@Pinterest_Engineering/interest-taxonomy-a-knowledge-graph-management-system-for-content-understanding-at-pinterest-a6ae75c203fd)
 * [Running JanusGraph with Cloud Bigtable](https://cloud.google.com/solutions/running-janusgraph-with-bigtable)
 * [Knowledge Graph Queries Using Stardog](https://towardsdatascience.com/knowledge-graph-queries-using-stardog-ba882f84ceea)
 * [Bring Order to Chaos: A Graph-Based Journey from Textual Data to Wisdom](https://neo4j.com/blog/bring-order-to-chaos-graph-based-journey-textual-data-to-wisdom/)
 * [Where Ontologies End and Knowledge Graphs Begin](https://medium.com/predict/where-ontologies-end-and-knowledge-graphs-begin-6fe0cdede1ed)
 
+## Cases
+
+* [Retail Graph — Walmart’s Product Knowledge Graph](https://medium.com/walmartlabs/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc)
+* [Interest Taxonomy: A knowledge graph management system for content understanding at Pinterest](https://medium.com/@Pinterest_Engineering/interest-taxonomy-a-knowledge-graph-management-system-for-content-understanding-at-pinterest-a6ae75c203fd)
+
+## e-Learning
+
+* [Knowledge Graphs. How should AI explicitly represent knowledge?](https://web.stanford.edu/class/cs520/)
 
 ## Tools
 
