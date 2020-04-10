@@ -36,3 +36,4 @@
 * [OrientDB](https://orientdb.com/)
 * [Elasticsearch Graph](https://www.elastic.co/what-is/elasticsearch-graph)
 * [JanusGraph](https://janusgraph.org/)
+* [Tinkerpop/Gremlin](https://tinkerpop.apache.org/gremlin.html)
