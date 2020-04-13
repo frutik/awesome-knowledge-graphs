@@ -24,6 +24,8 @@
 
 * [Retail Graph — Walmart’s Product Knowledge Graph](https://medium.com/walmartlabs/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc)
 * [Interest Taxonomy: A knowledge graph management system for content understanding at Pinterest](https://medium.com/@Pinterest_Engineering/interest-taxonomy-a-knowledge-graph-management-system-for-content-understanding-at-pinterest-a6ae75c203fd)
+* Alibaba - [Learn How a Knowledge Graph Can Improve Your Online Shopping Experience](https://www.alibabacloud.com/blog/learn-how-a-knowledge-graph-can-improve-your-online-shopping-experience_595668)
+* Semantics3 Labs - [The Ecommerce Knowledge Graph](https://www.semantics3.com/blog/the-ecommerce-knowledge-graph-semantics3-labs/)
 
 ## e-Learning
 
