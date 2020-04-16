@@ -1,6 +1,10 @@
 # awesome-knowledge-graphs
 
-## Step-by-Step Intro
+## Intro
+
+* [Evaluation of graph data stores](https://tech.flipkart.com/flipkart-commerce-graph-evaluation-of-graph-data-stores-8fe0f964affd)
+
+### RDF Graphs
 
 * [Tackling Big Data Challenges with Linked Data](https://medium.com/wallscope/tackling-big-data-challenges-with-linked-data-278b0761a6de)
 * [Understanding Linked Data Formats](https://medium.com/wallscope/understanding-linked-data-formats-rdf-xml-vs-turtle-vs-n-triples-eb931dbe9827)
@@ -8,6 +12,10 @@
 * [Constructing SPARQL Queries](https://medium.com/wallscope/constructing-sparql-queries-ca63b8b9ac02)
 * [Constructing More Advanced SPARQL Queries](https://medium.com/wallscope/constructing-more-advanced-sparql-queries-72d5ade1eedc)
 * [Comparison of Linked Data Triplestores: Developing the Methodology](https://medium.com/wallscope/comparison-of-linked-data-triplestores-developing-the-methodology-e87771cb3011) 
+
+### LPG
+
+?????
 
 ## Articles
 
