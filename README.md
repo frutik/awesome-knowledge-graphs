@@ -27,6 +27,7 @@
 * [Bring Order to Chaos: A Graph-Based Journey from Textual Data to Wisdom](https://neo4j.com/blog/bring-order-to-chaos-graph-based-journey-textual-data-to-wisdom/)
 * [Where Ontologies End and Knowledge Graphs Begin](https://medium.com/predict/where-ontologies-end-and-knowledge-graphs-begin-6fe0cdede1ed)
 * [Flipkart Commerce Graph — Evaluation of graph data stores](https://tech.flipkart.com/flipkart-commerce-graph-evaluation-of-graph-data-stores-8fe0f964affd)
+* [Building a Large-scale, Accurate and Fresh Knowledge Graph](https://towardsdatascience.com/the-building-a-large-scale-accurate-and-fresh-knowledge-graph-71ebd912210e)
 
 ## Cases
 
