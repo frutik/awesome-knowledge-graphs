@@ -29,6 +29,11 @@
 * [Flipkart Commerce Graph — Evaluation of graph data stores](https://tech.flipkart.com/flipkart-commerce-graph-evaluation-of-graph-data-stores-8fe0f964affd)
 * [Building a Large-scale, Accurate and Fresh Knowledge Graph](https://towardsdatascience.com/the-building-a-large-scale-accurate-and-fresh-knowledge-graph-71ebd912210e)
 
+## Other
+
+* [Combining WordNet and ConceptNet in Neo4j](http://tomkdickinson.co.uk/2017/05/21/combining-wordnet-and-conceptnet-in-neo4j/)
+* [Dive into WordNet with NLTK](https://medium.com/parrot-prediction/dive-into-wordnet-with-nltk-b313c480e788)
+
 ## Cases
 
 * [Retail Graph — Walmart’s Product Knowledge Graph](https://medium.com/walmartlabs/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc)
