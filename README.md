@@ -12,6 +12,8 @@
 * [Constructing SPARQL Queries](https://medium.com/wallscope/constructing-sparql-queries-ca63b8b9ac02)
 * [Constructing More Advanced SPARQL Queries](https://medium.com/wallscope/constructing-more-advanced-sparql-queries-72d5ade1eedc)
 * [Comparison of Linked Data Triplestores: Developing the Methodology](https://medium.com/wallscope/comparison-of-linked-data-triplestores-developing-the-methodology-e87771cb3011) 
+* [The intuitions behind Knowledge Graphs and Reasoning](https://towardsdatascience.com/the-intuitions-behind-knowledge-graphs-and-reasoning-59df2f1ad054)
+  Concepts and examples
 
 ### LPG
 
