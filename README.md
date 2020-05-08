@@ -31,6 +31,7 @@
 * [Flipkart Commerce Graph — Evaluation of graph data stores](https://tech.flipkart.com/flipkart-commerce-graph-evaluation-of-graph-data-stores-8fe0f964affd)
 * [Building a Large-scale, Accurate and Fresh Knowledge Graph](https://towardsdatascience.com/the-building-a-large-scale-accurate-and-fresh-knowledge-graph-71ebd912210e)
 * Neo4j vs GRAKN [Part I: Basics](https://towardsdatascience.com/neo4j-vs-grakn-part-i-basics-f2fe3511ce88), [Part II: Semantics](https://towardsdatascience.com/neo4j-vs-grakn-part-ii-semantics-11a0847ae7a2)
+* Comparing Graph Databases [Part 1: TigerGraph, Neo4j, Amazon Neptune](https://towardsdatascience.com/comparing-graph-databases-5475bdb2e65f), [Part 2: ArangoDB, OrientDB, and AnzoGraph DB](https://towardsdatascience.com/comparing-graph-databases-6b785e6e0818)
 
 ## Other
 
