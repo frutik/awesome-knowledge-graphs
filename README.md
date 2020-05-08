@@ -1,5 +1,7 @@
 # awesome-knowledge-graphs
 
+Trying to build up my knowledge in this area. As part of the [bigger picture](https://github.com/frutik/awesome-search)
+
 ## Intro
 
 * [Evaluation of graph data stores](https://tech.flipkart.com/flipkart-commerce-graph-evaluation-of-graph-data-stores-8fe0f964affd)
