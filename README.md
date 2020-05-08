@@ -40,6 +40,8 @@
 * [Interest Taxonomy: A knowledge graph management system for content understanding at Pinterest](https://medium.com/@Pinterest_Engineering/interest-taxonomy-a-knowledge-graph-management-system-for-content-understanding-at-pinterest-a6ae75c203fd)
 * Alibaba - [Learn How a Knowledge Graph Can Improve Your Online Shopping Experience](https://www.alibabacloud.com/blog/learn-how-a-knowledge-graph-can-improve-your-online-shopping-experience_595668)
 * Semantics3 Labs - [The Ecommerce Knowledge Graph](https://www.semantics3.com/blog/the-ecommerce-knowledge-graph-semantics3-labs/)
+* [Movie Recommendations powered by Knowledge Graphs and Neo4j](https://towardsdatascience.com/movie-recommendations-powered-by-knowledge-graphs-and-neo4j-33603a212ad0)
+   Blazing fast, top-quality recommendations directly from the database
 
 ## e-Learning
 
