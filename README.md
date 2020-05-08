@@ -1,6 +1,6 @@
 # awesome-knowledge-graphs
 
-Trying to build up my knowledge in this area. As part of the [bigger picture](https://github.com/frutik/awesome-search)
+Graphs and Knowledge Graphs - trying to build up my knowledge in this area. As part of the [bigger picture](https://github.com/frutik/awesome-search)
 
 ## Intro
 
