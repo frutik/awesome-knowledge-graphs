@@ -40,6 +40,11 @@ Graphs and Knowledge Graphs - trying to build up my knowledge in this area. As p
 * [Combining WordNet and ConceptNet in Neo4j](http://tomkdickinson.co.uk/2017/05/21/combining-wordnet-and-conceptnet-in-neo4j/)
 * [Dive into WordNet with NLTK](https://medium.com/parrot-prediction/dive-into-wordnet-with-nltk-b313c480e788)
 
+## Do not use graphs
+
+* [Should I use a graph database?](https://medium.com/lithictech/should-i-use-a-graph-database-a4ea91ed5d0)
+
+
 ## Cases
 
 * [Retail Graph — Walmart’s Product Knowledge Graph](https://medium.com/walmartlabs/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc)
