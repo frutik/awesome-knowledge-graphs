@@ -67,3 +67,4 @@ Graphs and Knowledge Graphs - trying to build up my knowledge in this area. As p
 * [Elasticsearch Graph](https://www.elastic.co/what-is/elasticsearch-graph)
 * [JanusGraph](https://janusgraph.org/)
 * [Tinkerpop/Gremlin](https://tinkerpop.apache.org/gremlin.html)
+* [Ebay's Akutan - A distributed knowledge graph store](https://github.com/eBay/akutan)
