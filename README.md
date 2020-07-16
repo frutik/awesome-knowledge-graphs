@@ -53,6 +53,8 @@ Graphs and Knowledge Graphs - trying to build up my knowledge in this area. As p
 * Semantics3 Labs - [The Ecommerce Knowledge Graph](https://www.semantics3.com/blog/the-ecommerce-knowledge-graph-semantics3-labs/)
 * [Movie Recommendations powered by Knowledge Graphs and Neo4j](https://towardsdatascience.com/movie-recommendations-powered-by-knowledge-graphs-and-neo4j-33603a212ad0)
    Blazing fast, top-quality recommendations directly from the database
+* [Determining compatibility](https://towardsdatascience.com/determining-compatibility-b952d941c22a)
+* [Dynamic website navigation with Faceted search, using RDFox](https://medium.com/oxford-semantic-technologies/dynamic-website-navigation-with-faceted-search-using-rdfox-ce6c3753a35d)
 
 ## e-Learning
 
