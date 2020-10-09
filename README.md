@@ -19,7 +19,7 @@ Graphs and Knowledge Graphs - trying to build up my knowledge in this area. As p
 
 ### LPG
 
-?????
+* [Representation Learning on RDF* and LPG Knowledge Graphs](https://towardsdatascience.com/representation-learning-on-rdf-and-lpg-knowledge-graphs-6a92f2660241)
 
 ## Articles
 
