@@ -5,6 +5,7 @@ Graphs and Knowledge Graphs - trying to build up my knowledge in this area. As p
 ## Intro
 
 * [Evaluation of graph data stores](https://tech.flipkart.com/flipkart-commerce-graph-evaluation-of-graph-data-stores-8fe0f964affd)
+* [Labeled vs Typed Property Graphs — All Graph Databases are not the same](https://medium.com/geekculture/labeled-vs-typed-property-graphs-all-graph-databases-are-not-the-same-efdbc782f099)
 
 ### RDF Graphs
 
