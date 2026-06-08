@@ -63,6 +63,7 @@ Graphs and Knowledge Graphs - trying to build up my knowledge in this area. As p
 
 ## Tools
 
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 * [Stardog](https://www.stardog.com/)
 * [Grakn](https://grakn.ai/)
 * [Neo4j](https://neo4j.com/)
