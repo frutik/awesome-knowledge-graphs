@@ -22,6 +22,9 @@ Graphs and Knowledge Graphs - trying to build up my knowledge in this area. As p
 
 * [Representation Learning on RDF* and LPG Knowledge Graphs](https://towardsdatascience.com/representation-learning-on-rdf-and-lpg-knowledge-graphs-6a92f2660241)
 
+### Hypergraphs
+* [Better modeling with a structured hypergraph](https://typedb.com/blog/the-case-for-a-structured-hypergraph)
+
 ## Articles
 
 * [Knowledge Graph App in 15min](https://medium.com/swlh/knowledge-graph-app-in-15min-c76b94bb53b3)
@@ -70,4 +73,5 @@ Graphs and Knowledge Graphs - trying to build up my knowledge in this area. As p
 * [Elasticsearch Graph](https://www.elastic.co/what-is/elasticsearch-graph)
 * [JanusGraph](https://janusgraph.org/)
 * [Tinkerpop/Gremlin](https://tinkerpop.apache.org/gremlin.html)
+* [TypeDB](https://typedb.com/)
 * [Ebay's Akutan - A distributed knowledge graph store](https://github.com/eBay/akutan)
