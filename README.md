@@ -60,6 +60,7 @@ Graphs and Knowledge Graphs - trying to build up my knowledge in this area. As p
 ## e-Learning
 
 * [Knowledge Graphs. How should AI explicitly represent knowledge?](https://web.stanford.edu/class/cs520/)
+* [Ontology Training: Taxonomies, Knowledge Graphs and AI](https://tesseract.academy/courses/ontology-training-knowledge-graphs-complete-course/) - free 45-lesson course on RDF, OWL 2, SPARQL and SHACL
 
 ## Tools
 
