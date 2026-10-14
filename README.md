@@ -56,6 +56,7 @@ Graphs and Knowledge Graphs - trying to build up my knowledge in this area. As p
    Blazing fast, top-quality recommendations directly from the database
 * [Determining compatibility](https://towardsdatascience.com/determining-compatibility-b952d941c22a)
 * [Dynamic website navigation with Faceted search, using RDFox](https://medium.com/oxford-semantic-technologies/dynamic-website-navigation-with-faceted-search-using-rdfox-ce6c3753a35d)
+* [BJJGraph](https://bjjgraph.org) - Brazilian jiu-jitsu as a knowledge graph: positions and techniques as nodes, every edge with an authored attempt probability and outcome distribution for gi and no-gi.
 
 ## e-Learning
 
