@@ -69,11 +69,10 @@ Graphs and Knowledge Graphs - trying to build up my knowledge in this area. As p
 ## Tools
 
 * [Stardog](https://www.stardog.com/)
-* [Grakn](https://grakn.ai/)
 * [Neo4j](https://neo4j.com/)
 * [OrientDB](https://orientdb.com/)
 * [Elasticsearch Graph](https://www.elastic.co/what-is/elasticsearch-graph)
 * [JanusGraph](https://janusgraph.org/)
 * [Tinkerpop/Gremlin](https://tinkerpop.apache.org/gremlin.html)
-* [TypeDB](https://typedb.com/)
+* Grakn -> [TypeDB](https://typedb.com/)
 * [Ebay's Akutan - A distributed knowledge graph store](https://github.com/eBay/akutan)
