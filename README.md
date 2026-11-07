@@ -58,7 +58,7 @@ Graphs and Knowledge Graphs - trying to build up my knowledge in this area. As p
 * [Movie Recommendations powered by Knowledge Graphs and Neo4j](https://towardsdatascience.com/movie-recommendations-powered-by-knowledge-graphs-and-neo4j-33603a212ad0)
    Blazing fast, top-quality recommendations directly from the database
 * [Determining compatibility](https://towardsdatascience.com/determining-compatibility-b952d941c22a)
-* [Human Lineage](https://humanlineage.org) - Global genealogical knowledge graph of historical people (parent-child and couple edges, life facts, links to Wikidata, VIAF and GND); open data dump on [Zenodo](https://doi.org/10.5281/zenodo.23284943), CC BY-SA 4.0.
+* [Human Lineage](https://humanlineage.org) - Global genealogical knowledge graph of historical people (parent-child and couple edges, life facts, links to Wikidata, VIAF and GND).
 * [Dynamic website navigation with Faceted search, using RDFox](https://medium.com/oxford-semantic-technologies/dynamic-website-navigation-with-faceted-search-using-rdfox-ce6c3753a35d)
 * [BJJGraph](https://bjjgraph.org) - Brazilian jiu-jitsu as a knowledge graph: positions and techniques as nodes, every edge with an authored attempt probability and outcome distribution for gi and no-gi.
 
