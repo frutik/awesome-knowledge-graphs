@@ -60,6 +60,7 @@ Graphs and Knowledge Graphs - trying to build up my knowledge in this area. As p
 * [Determining compatibility](https://towardsdatascience.com/determining-compatibility-b952d941c22a)
 * [Dynamic website navigation with Faceted search, using RDFox](https://medium.com/oxford-semantic-technologies/dynamic-website-navigation-with-faceted-search-using-rdfox-ce6c3753a35d)
 * [BJJGraph](https://bjjgraph.org) - Brazilian jiu-jitsu as a knowledge graph: positions and techniques as nodes, every edge with an authored attempt probability and outcome distribution for gi and no-gi.
+* [SSKG Hub](https://www.sskg-hub.com/) - Sustainability disclosure standards (GRI, SASB, TCFD, IFRS S2) as knowledge graphs: triples extracted by LLMs into a provenance-linked draft graph in Neo4j, then reviewed and promoted to a certified graph by domain experts, with every triple traceable to its source clause ([paper](https://arxiv.org/abs/2603.00669)).
 
 ## e-Learning
 
